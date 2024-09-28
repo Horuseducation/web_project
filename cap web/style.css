@@ -1,0 +1,410 @@
+*{
+    margin: 0px;
+}
+/*----top navbar --------*/
+.topnav-container{
+    margin: 0px;
+    position: static;
+}
+.soc-media{
+    margin: 0px;
+}
+.soc-icons{
+    display: inline;
+    position: relative;
+    top: 20px;
+}
+
+.soc-icons li{
+    display: inline;
+    padding: 12px;
+}
+img#\#instagram-icon {
+    width: 2%;
+}
+img#\#twitter-icon {
+    width: 2%;
+}
+img#\#facebook-icon {
+    width: 1.3%;
+}
+#follow{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:21px;
+    color: rgb(75, 75, 75);
+}
+#logo{
+    position: relative;
+    bottom: 21px;
+    left:21px;
+}
+img#\#call-icon {
+    width: 4%;
+}
+.top-nav{
+    margin: 0px;
+    display:flex;
+    justify-content: center;
+}
+.call{
+    margin:0px;
+    float: right;
+    position: relative;
+    left: 250px;
+    bottom: 60px;
+
+}
+.call-icon li{
+    display: inline;
+    padding: 2px;
+}
+/*------center navbar--------*/
+.navbar{
+    margin: 0px;
+    position: static;
+}
+.navbar-content{
+    margin: 0px;
+    justify-content: center;
+    position: relative;
+    left: 250px;
+}
+.nav-items li{
+    display: inline;
+    padding: 20px;
+}
+.nav-items li a{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  rgb(75, 75, 75) ;
+    text-decoration: none;
+    cursor: pointer;
+}
+/*------------carousel block -------------------*/
+/* Slideshow container */
+  /* Caption text */
+.main-body{
+    position:relative;
+    margin: 0px;
+}
+.home-container{
+margin: 0px;
+}
+
+  .text {
+    color: #f2f2f2;
+    font-size: 52px;
+    font-weight: bold;
+    position: absolute;
+    top: 120px;
+    left: 21px;
+    width: 100%;
+    animation-name: text;
+    animation-duration: 4s;
+    animation-delay: 0s;
+  }
+  .text2 {
+    color: #f2f2f2;
+    font-size: 52px;
+    font-weight: bold;
+    position: absolute;
+    top: 200px;
+    left: 21px;
+    width: 100%;
+    animation-name: text2;
+    animation-duration: 4s;
+    animation-delay: 0s;
+  }
+  #button1 {
+    font-size: 21px;
+    font-weight: bold;
+    border-radius:5px;
+    border-color: #ffffff;
+    color: rgb(255, 255, 255);
+    background-color: #ffffff00;
+    cursor: pointer;
+    position: absolute;
+    top: 200px;
+    left: 21px;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    animation-name: button1;
+  }
+  .button1 {
+    position: absolute;
+    top: 150px;
+    width: 100%;
+  }
+
+  @keyframes text {
+    from {top: 0px;opacity: 0;}
+    to {top: 120px;opacity: 1;}
+  }
+  @keyframes text2 {
+    from {top: 0px;opacity: 0;}
+    to {top: 200px;opacity: 1;}
+  }
+  @keyframes button1 {
+    from {top: 0px;opacity: 0;}
+    to {top: 150px;opacity: 1;}
+  }
+
+  #grid-svg{
+    width: 20%;
+    margin: 10px;
+  }
+.container-2{
+    margin: 0px;
+}
+.grid-box{
+    margin: 0px;
+    display: flex;
+    flex-wrap: nowrap;
+    box-sizing: border-box;
+}
+.col-box1{
+    background-color: rgba(96, 230, 253, 0.877);
+    margin: 10px;
+    text-align: center;
+    width: fit-content;
+}
+#cap{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    padding:12px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+#box1-ins{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    color: #000000;
+    padding: 20px;
+}
+
+#globe{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    padding:12px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+}
+#box2-ins{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+    padding: 20px;
+}
+
+#home{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    padding:12px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+}
+#box3-ins{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+    padding: 20px;
+}
+
+#book{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+    padding:12px;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+}
+#box4-ins{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+    padding: 20px;
+}
+.col-box1:hover {
+    background-color: #ffffff;
+    transition: 1s;
+    transform: rotate(360deg);
+  }
+/*-------------container two end--------*/
+/* ---------------about us -------------------*/
+.about-short{
+    margin: 10px;
+    width: 100%;
+}
+.image-about{
+    position: relative;
+    height: 100%;
+    object-fit: cover;
+}
+.about-contents{
+    margin: 0px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.image-data{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    padding:8px;
+    text-align: center;
+    color: #00b7ff;
+
+}
+#about{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    padding:8px;
+    text-align: center;
+    color: #00b7ff;
+}
+#para1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding:8px;
+    text-align: center;
+    color: #000000;
+}
+.list-course li a{
+    text-decoration: none;
+    color:  #00b7ff;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ------------end of about short-------------*/
+
+/*------------Course categories------------------*/
+#Popular-Course{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    padding:8px;
+    text-align: center;
+    color: #00b7ff;
+}
+
+.list-pcourse ul{
+    display: flex;
+    list-style-type: none;
+}
+.list-pcourse ul li{
+    text-decoration: none;
+    margin: 8px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  .button3 {
+    background-color: rgba(96, 230, 253, 0.877); /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+
+  .button3:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+  /*------------ End Course categories------------------*/
+
+    /*------------ Start Instructors------------------*/
+#Instructors{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    padding:8px;
+    text-align: center;
+    color: #00b7ff;
+
+}
+  .list-instructors ul{
+    display: flex;
+    list-style-type: none;
+}
+.list-instructors ul li{
+    text-decoration: none;
+    margin: 8px;
+}
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .container2 {
+    padding: 2px 16px;
+  }
+  .button4 {
+    background-color: rgba(96, 230, 253, 0.877); /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+
+  .button4:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+  /*------------ End Instructors------------------*/

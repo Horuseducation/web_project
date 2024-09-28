@@ -1,0 +1,49 @@
+nav{background-color:rgb(255, 255, 255);
+    height:44px;
+overflow:hidden;}
+.nav .header a{ font-size:21px;
+font-family:Arial;
+padding:22px;
+text-decoration:none;
+color:black;}
+.nav a:hover{background-color:rgba(190, 187, 187, 0.705);}
+.nav-r{float:right;
+    padding-top:5px;
+    padding-bottom:10px;
+color:black;
+ text-decoration:none;}
+ .back{background-image:url(back.jpg);
+      background-size:990px 730px;
+      margin-top:23px;
+      background-repeat:no-repeat;}
+.back form table{margin-top:130px;
+                width:12px}
+.back form{padding:80px 70px;}
+.back form table tr th{font-size:30px;
+    padding-left:55px;
+    padding-right:55px;
+    font-family:"Rockwell";
+    color:white;
+    text-align:center;
+    background-color: rgb(255, 48, 11);}
+    table, th, td {padding:12px;
+        background-color: rgb(255, 255, 255);
+        border:1px solid;
+        border-style: hidden;
+        border-collapse: collapse;} 
+        .type{font-family:"Segoe UI";}
+        .but{background-color:black;color:white;font-size:19px;width: 150px;text-align: center;}
+        .but:hover{background-color:rgb(190, 190, 190);color:white;border-color:rgb(255, 0, 0);}
+.box form label.check1{font-size:21px;} 
+.box form label.check2{font-size:21px;}
+.box form button.but{font-size:21px;background-color:rgba(255, 255, 255, 0.966);color: black;}
+.content1{background-color:white;overflow: hidden;margin-right:694px;text-align:center;}
+.content1 button{background-color:black;color: white;width:180px;font-size:21px;}
+.content1 button:hover{background-color:rgba(104, 104, 104, 0.89);color: rgb(0, 0, 0);width:180px;border-color:rgba(104, 104, 104, 0.89);} 
+.content2{background-color:white;overflow: hidden;margin-right:694px;text-align:center;}
+.content2 button{background-color:black;color: white;width:180px;font-size:21px;}
+.content2 button:hover{background-color:rgba(104, 104, 104, 0.89);color: rgb(0, 0, 0);width:180px;border-color:rgba(104, 104, 104, 0.89);}  
+.content3{background-color:white;overflow: hidden;margin-right:694px;text-align:center;}
+.content3 button{background-color:black;color: white;width:180px;font-size:21px;}
+.content3 button:hover{background-color:rgba(104, 104, 104, 0.89);color: rgb(0, 0, 0);width:180px;border-color:rgba(104, 104, 104, 0.89);}
+
