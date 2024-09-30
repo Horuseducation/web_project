@@ -1,0 +1,51 @@
+1. what is computer
+2. Computer generation
+3.  What is hardware
+4. What is software
+5. What is operating system
+6.  What is windows
+7. What is the difference between MAC, Windows, Linux
+8. What is CPU
+30. Internet
+31. Processor 
+32. Ram 
+33. ROM
+34. Virus
+35. Antivirus
+36. Security system in computer
+37. SSD
+38. Hardisk vs SSD
+39. Graphic card
+40. Mother board
+41. UPS
+42. what is wifi
+43.shortcut keys
+44. How do I select my PC
+45. Google,  Chrome 
+46. Gmail
+47. Features of Gmail
+48. Uses of Gmail
+49. Secure Gmail
+50. Monitor your device
+9. what is Machine level language
+10. What is high level language 
+11. What is coding
+12. What is programming
+12. Difference between coding and programming
+13. Platform for programming
+14. Which programming is better for future
+15. What is full stack web developing
+16. What is app development
+17. What is artificial intelligence
+18. What is the use of programming
+19. Fundamentals of programming
+20. Logic behind programming
+21. Syntax
+22. Variable, function, identifier, object oriented programming
+23. Interpreters
+24. Compiler
+25. How to setup environment
+26. Algorithm
+27. What's the purpose of algorithm
+28. How does programming help in feature
+29. Basic programming language

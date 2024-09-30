@@ -1,0 +1,501 @@
+ 1. what is the default chart type in Microsoft excel?
+
+(A) pie chart
+
+(B) line chart
+
+(C) surface chart
+
+(D) column chart
+
+Show Answer
+2.  Which computer virus records every movement you make on the computer?
+(A) Malware Android
+
+(B) DoS
+
+(C) Key Logger
+
+(D) Trapper
+
+Show Answer
+3.  What is the mascot of the Linux operating system?
+(A) Bear
+
+(B) Penguin
+
+(C) Lion
+
+(D) whale
+
+Show Answer
+4.  3 A nibble is equal to bits.
+(A) 4
+
+(B) 8
+
+(C) 16
+
+(D) 32
+
+Show Answer
+5.  What is called the syntax analysis part in the machine language transformation of a high-level language?
+(A) lexical analysis
+
+(B) semantic analysis
+
+(C) parsing
+
+(D) linking
+
+Show Answer
+6.  Which symbol is used to separate the username of an email address from that of an ISP?
+(A) @
+
+(B) &
+
+(C) $
+
+(D) #
+
+Show Answer
+7.  The instruction about booting your system is stored in:
+(A) RAM
+
+(B) CPU
+
+(C) BIOS
+
+(D) Register
+
+Show Answer
+8.  Laser printer resolution is specified in terms of:
+(A) DPI
+
+(B) LPM
+
+(C) CPM
+
+(D) LSI
+
+Show Answer
+9.  Which keys are used to switch between programs in windows?
+(A) Ctrl+TAB
+
+(B) Alt+TAB
+
+(C) Shift+TAB
+
+(D) Shift+Enter
+
+Show Answer
+10. Mail merge is a component of which of the following?
+(A) MS Word
+
+(B) MS Excel
+
+(C) Word Press
+
+(D) MS Access
+
+Show Answer
+ 11. Which of the following are the types of Computer- 
+(A) Mainframe computer
+
+(B) Microcomputer
+
+(C) Super and mini computers
+
+(D) All of the above
+
+Show Answer
+12.  Which one of the following is not an application software –
+(A) Notepad
+
+(B) Photoshop
+
+(C) Windows 7
+
+(D) Pagemaker
+
+Show Answer
+13.  Which of the following purposes the computer is being used at home-
+(A) Social media
+
+(B) Homework for school children
+
+(C) entertainment
+
+(D) All of the above
+
+Show Answer
+14.  Which of the following explains the use of computer in the field of education-
+(A) Online education
+
+(B) Digital Literary
+
+(C) Smart class, research
+
+(D) All of the above
+
+Show Answer
+15.  Another name for program or set of programs is-
+(A) People
+
+(B) Data
+
+(C) Hardware
+
+(D) Software
+
+Show Answer
+16.  Which is not a type of secondary memory?
+(A) Solid State Drive
+
+(B) Hard Disk
+
+(C) Random Access Memory
+
+(D) USB Pen Drive
+
+Show Answer
+17.  Internet search engine is an example of-
+(A) Windows
+
+(B) Linux
+
+(C) Yahoo
+
+(D) MS Word
+
+Show Answer
+18.  Given the email address, make the correct choice.
+(A) They should always contain @ sign
+
+(B) They can never contain empty space
+
+(C) Both A and B
+
+(D) None of the above
+
+Show Answer
+19.  Which key combination can be used to add a new slide in a PowerPoint presentation?
+(A) Ctrl+X
+
+(B) Ctrl+N
+
+(C) Ctrl +M
+
+(D) Ctrl+Z
+
+Show Answer
+20.  The use of super computer is –
+(A) To get information about earthquake
+
+(B) Communication
+
+(C) Weather forecast
+
+(D) All of the above
+
+Show Answer
+21. Teacher and learner interact simultaneously with ICT even when they are physically apart-
+(A) Synchronous
+
+(B) Self chapter
+
+(C) Odd time
+
+(D) None of these
+
+Show Answer
+22.  Which is the longest key on the keyboard?
+(A) Home
+
+(B) Enter
+
+(C) Space bar
+
+(D) Shift
+
+Show Answer
+23.  What is the shortcut key to insert hyperlink?
+(A) Alt+K
+
+(B) Ctrl+K
+
+(C) Ctrl+H
+
+(D) Ctrl+M
+
+Show Answer
+24. The Indian medium for 'Massive Open Online Courses' is -
+(A) myself
+
+(B) Moodle
+
+(C) Blackboard
+
+(D) Edex
+
+Show Answer
+25.  When was the Department of Electronics established in India.
+(A) 1970
+
+(B) 1977
+
+(C) 1986
+
+(D) 1990
+
+Show Answer
+26. By which institute was the CLASS project started?
+(A) SIERT
+
+(B) SCERT
+
+(C) NCERT
+
+(D) NCTE
+
+Show Answer
+27.  SSO is the short form of-
+(A) Single Sight On
+
+(B) Single sign On
+
+(C) Service Selection On
+
+(D) Single Service On
+
+Show Answer
+28.  A complete electronic circuit with transistors and other electronic components can be placed on a small silicon chip. it is said.
+(A) Church station
+
+(B) CPU
+
+(C) Magnetic
+
+(D) Electromagnetic
+
+Show Answer
+29.  Who said this “Communication is sharing of thoughts and feelings in a mood of reciprocity”.
+(A) Keith Davis
+
+(B) J.P. legan
+
+(C) E.G. Mayor
+
+(D) Edgar Dale
+
+Show Answer
+30.  Which computer is called personal computer?
+(A) Micro computer
+
+(B) Mini computer
+
+(C) Mainframe computer
+
+(D) Super computer
+
+Show Answer 
+31. What is the nature of communication-
+(A) To do the assigned work
+
+(B) Taking notes
+
+(C) Procedure for providing information
+
+(D) Classroom discussion
+
+Show Answer
+32.  What is Information Information communication technology? 
+(A) Increases motivation in students
+
+(B) Increases the performance of the students
+
+(C) Encourages higher order thinking
+
+(D) All of the above
+
+Show Answer
+33.  Computer virus is-
+(A) Software
+
+(B) Hardware
+
+(C) Backup programs
+
+(D) None of the above
+
+Show Answer
+34  Which of the following is called an output device?
+(A) Joystick
+
+(B) Monitor
+
+(C) C.P. U.
+
+(D) Pen drive
+
+Show Answer
+35  Under which scheme facilities related to different departments are made available at one place?
+(A) Digital India
+
+(B) E-commerce
+
+(C) E-Mitra
+
+(D) E-Suvidha
+
+Show Answer
+36  Which one of the following is not an input device?
+(A) Magnetic Ink Character Recognition
+
+(B) Optical Mark Recognition
+
+(C) Trackball
+
+(D) speaker
+
+Show Answer
+37  MS-DOS/Windows commands and Unix/Linux commands are used to list directories/files available in the current directory or for information about a file.
+(A) Rmdir, Mkdir
+
+(B) Type, Car
+
+(C) Is Dir
+
+(D) none of the above
+
+Show Answer
+38  Which of the following is the correct sequence of communication process?
+(A) Sender - Message - Medium - Receiver
+
+(B) Message – Sender – Medium – Receiver
+
+(C) Sender - Medium - Message - Receiver
+
+(D) Medium - Message - Sender -Receiver
+
+Show Answer
+39  1 Kilobyte is equal to -
+(A) 8000 Bits
+
+(B) 1024 Bits
+
+(C) 512 Bits
+
+(D) None of the above
+
+Show Answer
+40  Which of the following is a co-curricular use of ICT?
+(A) Preparation of pay scale of teachers
+
+(B) School magazine publication
+
+(C) Creating results and reports
+
+(D) lesson planning
+
+Show Answer
+ 41. What is the nature of communication-
+(A) To do the assigned work
+
+(B) Taking notes
+
+(C) Procedure for providing information
+
+(D) Classroom discussion
+
+Show Answer
+42.  What is Information Information communication technology? 
+(A) Increases motivation in students
+
+(B) Increases the performance of the students
+
+(C) Encourages higher order thinking
+
+(D) All of the above
+
+Show Answer
+43.  Computer virus is-
+(A) Software
+
+(B) Hardware
+
+(C) Backup programs
+
+(D) None of the above
+
+Show Answer
+44.  Which of the following is called an output device?
+(A) Joystick
+
+(B) Monitor
+
+(C) C.P. U.
+
+(D) Pen drive
+
+Show Answer
+45.  Under which scheme facilities related to different departments are made available at one place?
+(A) Digital India
+
+(B) E-commerce
+
+(C) E-Mitra
+
+(D) E-Suvidha
+
+Show Answer
+46.  Which one of the following is not an input device?
+(A) Magnetic Ink Character Recognition
+
+(B) Optical Mark Recognition
+
+(C) Trackball
+
+(D) speaker
+
+Show Answer
+47.  MS-DOS/Windows commands and Unix/Linux commands are used to list directories/files available in the current directory or for information about a file.
+(A) Rmdir, Mkdir
+
+(B) Type, Car
+
+(C) Is Dir
+
+(D) none of the above
+
+48.
+Q :  Which of the following is the correct sequence of communication process?
+(A) Sender - Message - Medium - Receiver
+
+(B) Message – Sender – Medium – Receiver
+
+(C) Sender - Medium - Message - Receiver
+
+(D) Medium - Message - Sender -Receiver
+
+49.
+Q :  1 Kilobyte is equal to -
+(A) 8000 Bits
+
+(B) 1024 Bits
+
+(C) 512 Bits
+
+(D) None of the above
+
+Show Answer
+50.  Which of the following is a co-curricular use of ICT?
+(A) Preparation of pay scale of teachers
+
+(B) School magazine publication
+
+(C) Creating results and reports
+
+(D) lesson planning
+
+Show Answer
